@@ -1,8 +1,12 @@
+Code snippets
+
+
+- Mashup::Keyword wrapper for yahoo, flickr, etc
+
 Cake Components
 
 I use the Zend Framework so add it to vendors
 
-- Mashup::Keyword wrapper for yahoo, flickr, etc
 - Govtrack.us api wrapper
 - Federal Spending api wrapper
 - Sunlight Labs api wrapper
